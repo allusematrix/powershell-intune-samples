@@ -1,6 +1,6 @@
 ﻿
 <#
-
+ 
 .SYNOPSIS
 Highlights configuration problems on an NDES server, as configured for use with Intune Standalone SCEP certificates.
 
